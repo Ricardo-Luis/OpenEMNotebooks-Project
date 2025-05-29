@@ -1,8 +1,14 @@
 # OpenEMNotebooks-Project
-EUR-ACE CONNECT Pitch, 20-30 May 2025, Lisbon, Portugal
+EUR-ACE CONNECT, 20-30 May 2025, Lisbon, Portugal
   
 <br>
 <br>
+
+**Pitch**:\
+Open Electrical Machines Interactive Notebooks: Bridging Academic Excellence with Industry-Recognized Credentials
+
+
+# Resume
 
 ## Open Electrical Machines Interactive Notebooks
 Building an open-source collection of interactive notebooks for Electrical Machines education using [**Pluto.jl**](https://plutojl.org/) IDE with the [**Julia**](https://julialang.org/) scientific computing language. 
