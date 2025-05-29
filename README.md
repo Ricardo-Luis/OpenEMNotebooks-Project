@@ -5,14 +5,14 @@ EUR-ACE CONNECT Pitch, 20-30 May 2025, Lisbon, Portugal
 <br>
 
 ## Open Electrical Machines Interactive Notebooks
-Building an open-source collection of interactive notebooks for Electrical Machines education using Pluto.jl IDE with the Julia scientific computing language. 
+Building an open-source collection of interactive notebooks for Electrical Machines education using [**Pluto.jl**](https://plutojl.org/) IDE with the [**Julia**](https://julialang.org/) scientific computing language. 
 These tools combine code, visualizations, and text, enabling real-time simulation and interaction with electrical concepts.
 
 <br>
 
 ### Current Development:
 Interactive notebooks on electrical machines (currently in Portuguese):\
-[Notebooks Reativos de Apoio a Máquinas Elétricas II](https://ricardo-luis.github.io/isel-me2/)
+[*Notebooks Reativos de Apoio a Máquinas Elétricas II*](https://ricardo-luis.github.io/isel-me2/)
 
 <br>
 
@@ -26,13 +26,11 @@ Interactive notebooks on electrical machines (currently in Portuguese):\
 Develop practical skills recognized by universities and industry through hands-on digital learning experiences.
 
 <br>
+<br>
 
 [Ricardo Luís](https://ricardo-luis.github.io/)
 
 <br>
-<br>
-
-
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
