@@ -27,7 +27,7 @@ Develop practical skills recognized by universities and industry through hands-o
 
 <br>
 
-Ricardo Luís
+[Ricardo Luís](https://ricardo-luis.github.io/)
 
 <br>
 <br>
